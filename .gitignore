@@ -32,7 +32,7 @@ ENV/
 !.env.example
 
 # Generated local vector database (rebuild with `python seed_products.py`)
-data/vector_db/
+#data/vector_db/
 
 # IDE
 .vscode/
